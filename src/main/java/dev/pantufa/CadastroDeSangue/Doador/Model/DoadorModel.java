@@ -1,6 +1,6 @@
-package dev.pantufa.CadastroDeSangue.Model;
+package dev.pantufa.CadastroDeSangue.Doador.Model;
 
-import dev.pantufa.CadastroDeSangue.Enums.TipoSanguineo;
+import dev.pantufa.CadastroDeSangue.Doador.Model.Enums.TipoSanguineo;
 import jakarta.persistence.*;
 
 @Entity //Essa anotação transforma uma classe em uma entidade no BD

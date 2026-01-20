@@ -1,4 +1,4 @@
-package dev.pantufa.CadastroDeSangue.Enums;
+package dev.pantufa.CadastroDeSangue.Doador.Model.Enums;
 
 public enum TipoSanguineo {
     A_POSITIVO("A+"),
